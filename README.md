@@ -2,7 +2,9 @@
 <!--
 ![ViewCount](https://views.whatilearened.today/views/github/wan-nan/wan-nan.svg)
 -->
+<!--
 [![wanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=wan-nan)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 **wan-nan/wan-nan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
